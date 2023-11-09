@@ -19,6 +19,7 @@ namespace IdentityASP.NET_Core.Models
         [Compare("Password",ErrorMessage ="The Password and confurm password do not match")]
         public string ConfurmPassword { get; set; }
 
+        [Required]
         public string Name { get; set; }
 
     }
