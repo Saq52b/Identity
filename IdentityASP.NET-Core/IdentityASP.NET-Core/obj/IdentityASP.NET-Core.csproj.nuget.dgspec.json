@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JUNAID\\source\\repos\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj": {}
+    "D:\\Development\\C#\\Identity\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JUNAID\\source\\repos\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj": {
+    "D:\\Development\\C#\\Identity\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JUNAID\\source\\repos\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj",
+        "projectUniqueName": "D:\\Development\\C#\\Identity\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj",
         "projectName": "IdentityASP.NET-Core",
-        "projectPath": "C:\\Users\\JUNAID\\source\\repos\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj",
+        "projectPath": "D:\\Development\\C#\\Identity\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\IdentityASP.NET-Core.csproj",
         "packagesPath": "C:\\Users\\JUNAID\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JUNAID\\source\\repos\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\obj\\",
+        "outputPath": "D:\\Development\\C#\\Identity\\IdentityASP.NET-Core\\IdentityASP.NET-Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JUNAID\\AppData\\Roaming\\NuGet\\NuGet.Config",
