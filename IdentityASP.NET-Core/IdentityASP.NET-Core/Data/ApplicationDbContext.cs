@@ -1,4 +1,5 @@
 ﻿
+using IdentityASP.NET_Core.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,5 +11,6 @@ namespace IdentityASP.NET_Core.Data
         {
                 
         }
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
     }
 }
